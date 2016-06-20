@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VRKiosk_Config>
+	<apps>
+		<app name="Boursin Sensorium" imgFilename="gameImages\BoursinSensorium.png" fullFilePath="D:\Program Files\OculusGames\0.7\Boursin_Sensorium_Virtual_Reality_Experience-pc\BoursinSensorium2\WindowsNoEditor\BoursinSensorium2.exe" paramsCustom="-fullscreen" globalSettingsEnabled="false" sendKeysForDialog="" sendKeysForAButton="">
+			<notes>Roller coaster in a fridge! Really high quality.</notes> 
+			<filters>
+				<filter>1</filter>
+			</filters>
+		</app>
+		<app name="Mythose of the world axis" imgFilename="gameImages\UE4GeneralLogo.png" fullFilePath="D:\Program Files\OculusGames\0.7\WorldAxis_0.1.6\WorldAxis.exe" paramsCustom="-fullscreen" globalSettingsEnabled="false" sendKeysForDialog="" sendKeysForAButton="">
+			<notes>Mythose of the world axis - top down game demo</notes> 
+			<filters>
+				<filter>0</filter>
+			</filters>
+		</app>
+	</apps>
+	<filterCategories>
+		<filterCategory name="Demo" id="0" />
+		<filterCategory name="Coaster" id="1" />
+	</filterCategories>
+</VRKiosk_Config>

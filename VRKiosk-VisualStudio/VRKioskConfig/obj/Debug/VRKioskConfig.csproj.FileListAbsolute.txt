@@ -1,0 +1,13 @@
+D:\Projects\Programming\VRKiosk\VRKiosk-VisualStudio\VRKioskConfig\bin\Debug\VRKioskConfig.exe.config
+D:\Projects\Programming\VRKiosk\VRKiosk-VisualStudio\VRKioskConfig\bin\Debug\VRKioskConfig.exe
+D:\Projects\Programming\VRKiosk\VRKiosk-VisualStudio\VRKioskConfig\bin\Debug\VRKioskConfig.pdb
+D:\Projects\Programming\VRKiosk\VRKiosk-VisualStudio\VRKioskConfig\bin\Debug\IconExtractor.dll
+D:\Projects\Programming\VRKiosk\VRKiosk-VisualStudio\VRKioskConfig\bin\Debug\IconExtractor.pdb
+D:\Projects\Programming\VRKiosk\VRKiosk-VisualStudio\VRKioskConfig\obj\Debug\VRKioskConfig.csprojResolveAssemblyReference.cache
+D:\Projects\Programming\VRKiosk\VRKiosk-VisualStudio\VRKioskConfig\obj\Debug\VRKioskConfig.Properties.Resources.resources
+D:\Projects\Programming\VRKiosk\VRKiosk-VisualStudio\VRKioskConfig\obj\Debug\VRKioskConfig.VrKioskMain.resources
+D:\Projects\Programming\VRKiosk\VRKiosk-VisualStudio\VRKioskConfig\obj\Debug\VRKioskConfig.csproj.GenerateResource.Cache
+D:\Projects\Programming\VRKiosk\VRKiosk-VisualStudio\VRKioskConfig\obj\Debug\VRKioskConfig.exe
+D:\Projects\Programming\VRKiosk\VRKiosk-VisualStudio\VRKioskConfig\obj\Debug\VRKioskConfig.pdb
+D:\Projects\Programming\VRKiosk\VRKiosk-VisualStudio\VRKioskConfig\obj\Debug\Interop.Shell32.dll
+D:\Projects\Programming\VRKiosk\VRKiosk-VisualStudio\VRKioskConfig\obj\Debug\VRKioskConfig.csproj.ResolveComReference.cache

@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VRKiosk_Config>
+  <apps>
+    <app name="Elemental Image Hands" imgFilename="gameImages\defaultUnity.png" fullFilePath="D:\Program Files\OculusGames\Leap\ElementL_ImageHands\ElementL_Win64\ElementL_DirectToRift.exe" paramsCustom="-force-d3d11" sendKeysForDialog="" sendKeysForAButton="">
+      <notes>Leap motion VR demo - be a wizard!</notes>
+      <filters>
+        <filter>0</filter>
+        <filter>6</filter>
+      </filters>
+    </app>
+    <app name="Brain Connectivity" imgFilename="gameImages\defaultUnity.png" fullFilePath="D:\Program Files\OculusGames\Leap\brainConnectivity\Brain Connectivity Leap (Virtual Reality)_DirectToRift.exe" paramsCustom="-force-d3d11" sendKeysForDialog="" sendKeysForAButton="">
+      <notes>Leap motion VR demo</notes>
+      <filters>
+        <filter>6</filter>
+      </filters>
+    </app>
+    <app name="Proton Pulse" imgFilename="gameImages\protonPulse.png" fullFilePath="C:\Oculus\OCULUS-C\Proton_Pulse-pc\Proton_Pulse_WIN\ProtonPulse_DirectToRift.exe" paramsCustom="-force-d3d11" sendKeysForDialog="" sendKeysForAButton="^">
+      <notes>Demo - 3D pong in the world of Tron basically, it's amazing! Note: When the game starts, you can press A instead of CTRL like it asks.</notes>
+      <filters>
+        <filter>0</filter>
+      </filters>
+    </app>
+    <app name="Aaaaahh for awesome" imgFilename="gameImages\awesome.png" fullFilePath="C:\Program Files (x86)\Steam\SteamApps\common\Awesome\Awesome_DirectToRift.exe" paramsCustom="-vr -force-d3d11" sendKeysForDialog="" sendKeysForAButton="">
+      <notes>Full Game - Jump off of a building! So fun! Note: use the right analog stick on gamepad as the mouse.</notes>
+      <filters>
+        <filter>3</filter>
+      </filters>
+    </app>
+    <app name="Crystal Rift" imgFilename="gameImages\crystalRift.png" fullFilePath="C:\Oculus\OCULUS-C\CrystalRift-Alpha8-08_12_14-x64\CrystalRift-Alpha8-08_12_14-x64_DirectToRift.exe" paramsCustom="-force-d3d11" sendKeysForDialog="" sendKeysForAButton="">
+      <notes>Demo - 15 min. - A Scary game where you're trapped in a maze in the dark and a constant heartbeat to keep you on your toes! Note: When game launches, you can set the scare level higher or lower.</notes>
+      <filters>
+        <filter>0</filter>
+      </filters>
+    </app>
+    <app name="Darknet Flavor Demo" imgFilename="gameImages\darknet.png" fullFilePath="C:\Oculus\OCULUS-C\DarknetFlavorDemo2\DarknetFlavorDemo_DirectToRift.exe" paramsCustom="" sendKeysForDialog="" sendKeysForAButton="">
+      <notes>Short 5 min. demo - good for first timers, won't make you queasy.</notes>
+      <filters>
+        <filter>0</filter>
+      </filters>
+    </app>
+    <app name="Titans of Space" imgFilename="gameImages\titansOfSpace.png" fullFilePath="C:\Oculus\OCULUS-C\Titans_of_Space-pc\TitansOfSpaceV1.70-DK2_DirectToRift.exe" paramsCustom="" sendKeysForDialog="" sendKeysForAButton="">
+      <notes>Experience - 15 minutes - AMAZING demo! One of the best, definitely highly recommended. </notes>
+      <filters>
+        <filter>1</filter>
+      </filters>
+    </app>
+    <app name="Windlands" imgFilename="gameImages\windlands.png" fullFilePath="C:\Oculus\new-demos\Windlands(Win32-V031a-SDK042-DK2)\Windlands_DirectToRift.exe" paramsCustom="-force-d3d11" sendKeysForDialog="" sendKeysForAButton="">
+      <notes>Demo - 1 hour+ - Swing around like spider-man in a cartoon world.</notes>
+      <filters>
+        <filter>0</filter>
+      </filters>
+    </app>
+    <app name="Unreal Roller Coaster" imgFilename="gameImages\UE4Coaster.png" fullFilePath="C:\Oculus\OCULUS-C\Unreal4\UE4Rollercoaster\UE4Rollercoaster\Binaries\Win64\UE4Rollercoaster-Win64-Shipping.exe" paramsCustom="-fullscreen" sendKeysForDialog="{TAB}{TAB}{TAB}{TAB}{TAB}{TAB}{TAB}{TAB}{TAB}{TAB}{TAB}{TAB}{TAB}{TAB}{TAB}{TAB}{TAB}{TAB}{TAB}{TAB}{TAB}{TAB}{TAB}{TAB}{TAB}{TAB}{TAB}{TAB}{TAB}{ENTER}" sendKeysForAButton=" ">
+      <notes>Experience - 2 min. - Roller Coaster in a living room. Pretend you're a hamster! When game is launched, simply press A on gamepad to start.</notes>
+      <filters>
+        <filter>4</filter>
+      </filters>
+    </app>
+    <app name="Vox Machinae" imgFilename="gameImages\voxMachinae.png" fullFilePath="C:\Oculus\new-demos\voxMachinae\vm_DirectToRift.exe" paramsCustom="-force-d3d11" sendKeysForDialog="{ENTER}" sendKeysForAButton="">
+      <notes>Demo - 15 min. - Strap into a mech and shoot lazers and rockets at other mechs. Complete with tutorial, very comfortable experience and a great one at that.</notes>
+      <filters>
+        <filter>0</filter>
+      </filters>
+    </app>
+    <app name="Affected (horror game)" imgFilename="gameImages\defaultUnity.png" fullFilePath="C:\Oculus\OCULUS-C\Affected\Affected v1.55 (DX11)_DirectToRift.exe" paramsCustom="-force-d3d11" sendKeysForDialog="" sendKeysForAButton="">
+      <notes>Demo - 10-30 min. - Jump scare game in dark places. Really freaky!</notes>
+      <filters>
+        <filter>5</filter>
+      </filters>
+    </app>
+    <app name="Technolust" imgFilename="gameImages\technolust.png" fullFilePath="C:\Oculus\new-demos\Technolust\Technolust Win 4.4_DirectToRift.exe" paramsCustom="-force-d3d11" sendKeysForDialog="" sendKeysForAButton="">
+      <notes>Demo - 10 min. - Try to find the clues to pass the demo.</notes>
+      <filters>
+        <filter>0</filter>
+      </filters>
+    </app>
+    <app name="From Ashes (educational)" imgFilename="gameImages\defaultUnity.png" fullFilePath="C:\Oculus\new-demos\FromAshes\From Ashes_DirectToRift.exe" paramsCustom="-force-d3d11" sendKeysForDialog="" sendKeysForAButton="">
+      <notes>Experience - 15 min. - Educational presentation about the origins of our existence. Really interesting and well done.</notes>
+      <filters>
+        <filter>1</filter>
+      </filters>
+    </app>
+    <app name="Dreadhalls (horror)" imgFilename="gameImages\dreadHalls.png" fullFilePath="C:\Oculus\new-demos\Dreadhalls_1.4_dx11\Dreadhalls_DirectToRift.exe" paramsCustom="-force-d3d11" sendKeysForDialog="" sendKeysForAButton="">
+      <notes>Demo - 15-20 min. - Scary game that let's you walk around in a dark maze. Try to find your way out!</notes>
+      <filters>
+        <filter>5</filter>
+      </filters>
+    </app>
+    <app name="VR Video - Whirligig Player" imgFilename="gameImages\defaultUnity.png" fullFilePath="D:\Downloads\_VR-New\Whirligig-64bit-regular\Whirligig 64bit-SDK v0.4.2\Whirligig_DirectToRift.exe" paramsCustom="-force-d3d11" sendKeysForDialog="" sendKeysForAButton="">
+      <notes>Videos - 15 min. - 360 Degree Videos! A must watch!</notes>
+      <filters>
+        <filter>2</filter>
+      </filters>
+    </app>
+    <app name="Time Rifters" imgFilename="gameImages\timeRifters.png" fullFilePath="C:\Program Files (x86)\Steam\SteamApps\common\TimeRifters\TimeRifters_DirectToRift.exe" paramsCustom="-UseRift" sendKeysForDialog="" sendKeysForAButton="">
+      <notes>Full game - Shooter made for VR from the ground up. Very comfortable experience for a shooter and loads of fun.</notes>
+      <filters>
+        <filter>3</filter>
+      </filters>
+    </app>
+    <app name="In Mind VR" imgFilename="gameImages\inMindVR.png" fullFilePath="D:\Program Files\SteamLibrary\steamapps\common\InMind\InMind_DirectToRift.exe" paramsCustom="-force-d3d11" sendKeysForDialog="" sendKeysForAButton="">
+      <notes>Demo - 10 min. - take a journey through the mind on a roller coaster where you get to shoot at infected neurons. Pretty nice visuals and cockpit view.</notes>
+      <filters>
+        <filter>4</filter>
+      </filters>
+    </app>
+    <app name="Helix Coaster" imgFilename="gameImages\defaultUnity.png" fullFilePath="C:\Oculus\new-demos\Helix_SDK_0-4-2\Helix_DirectToRift.exe" paramsCustom="" sendKeysForDialog="" sendKeysForAButton=" ">
+      <notes>Roller Coaster - realistic recreation of a real roller coaster.</notes>
+      <filters>
+        <filter>4</filter>
+      </filters>
+    </app>
+    <app name="Lava Inc. Coaster" imgFilename="gameImages\defaultUnity.png" fullFilePath="C:\Oculus\OCULUS-C\Lava_Inc-pc\Lava Inc\Lava_Inc_DirectToRift.exe" paramsCustom="-force-d3d11" sendKeysForDialog="" sendKeysForAButton=" ">
+      <notes>Roller Coaster - you control the speed of the coaster based on how much you lean</notes>
+      <filters>
+        <filter>4</filter>
+      </filters>
+    </app>
+    <app name="Welcome to Oculus" imgFilename="gameImages\defaultUnity.png" fullFilePath="C:\Oculus\OCULUS-C\welcome_to_oculus_2_0\welcome_to_oculus_DirectToRift.exe" paramsCustom="-force-d3d11" sendKeysForDialog="" sendKeysForAButton=" ">
+      <notes>Welcome to the oculus - short demo showing off some oculus stuff</notes>
+      <filters>
+        <filter>1</filter>
+      </filters>
+    </app>
+    <app name="Birdy King Land - Coaster" imgFilename="gameImages\defaultUnity.png" fullFilePath="D:\Program Files\OculusGames\BirdyKingLand_Backlight-Studio\Birdy King Land_DirectToRift.exe" paramsCustom="-force-d3d11" sendKeysForDialog="{ENTER}{ENTER}" sendKeysForAButton=" ">
+      <notes>Really neat french animated coaster. It's really just a seated ride in a sidecar of a motorbike, super cool though.</notes>
+      <filters>
+        <filter>4</filter>
+      </filters>
+    </app>
+    <app name="Surge" imgFilename="gameImages\Surge.png" fullFilePath="D:\Program Files\OculusGames\Surge-pc\Surge_1.1\Surge.exe" paramsCustom="" sendKeysForDialog="" sendKeysForAButton=" ">
+      <notes>AWESOME music video </notes>
+      <filters>
+        <filter>1</filter>
+      </filters>
+    </app>
+    <app name="Henry" imgFilename="gameImages\Henry.png" fullFilePath="D:\Program Files\OculusGames\0.7\HenryTrailer_20150921\Henry.exe" paramsCustom="" sendKeysForDialog="" sendKeysForAButton="">
+      <notes></notes>
+      <filters>
+        <filter>0</filter>
+      </filters>
+    </app>
+  </apps>
+  <filterCategories>
+    <filterCategory name="Demo" id="0" />
+    <filterCategory name="Experience" id="1" />
+    <filterCategory name="Video" id="2" />
+    <filterCategory name="Full Game" id="3" />
+    <filterCategory name="Roller Coasters" id="4" />
+    <filterCategory name="Scary Games" id="5" />
+    <filterCategory name="Leap Motion" id="6" />
+  </filterCategories>
+</VRKiosk_Config>

@@ -1,0 +1,6 @@
+D:\Projects\Programming\VRKiosk\VRKiosk-VisualStudio\VRKioskCLI\bin\Debug\VRKioskCLI.exe.config
+D:\Projects\Programming\VRKiosk\VRKiosk-VisualStudio\VRKioskCLI\bin\Debug\VRKioskCLI.exe
+D:\Projects\Programming\VRKiosk\VRKiosk-VisualStudio\VRKioskCLI\bin\Debug\VRKioskCLI.pdb
+D:\Projects\Programming\VRKiosk\VRKiosk-VisualStudio\VRKioskCLI\bin\Debug\XInputDotNetPure.dll
+D:\Projects\Programming\VRKiosk\VRKiosk-VisualStudio\VRKioskCLI\obj\Debug\VRKioskCLI.exe
+D:\Projects\Programming\VRKiosk\VRKiosk-VisualStudio\VRKioskCLI\obj\Debug\VRKioskCLI.pdb

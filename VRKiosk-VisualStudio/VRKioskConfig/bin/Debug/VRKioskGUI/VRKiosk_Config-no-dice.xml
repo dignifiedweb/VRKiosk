@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VRKiosk_Config>
+  <filterCategories>
+    <filterCategory name="Demo" id="0" />
+  </filterCategories>
+</VRKiosk_Config>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VRKiosk_Config>
+  <apps>
+    <app name="BoursinSensorium2" imgFilename="gameImages\BoursinSensorium2.png" fullFilePath="D:\Program Files\OculusGames\0.7\Boursin_Sensorium_Virtual_Reality_Experience-pc\BoursinSensorium2\WindowsNoEditor\BoursinSensorium2.exe" paramsCustom="" sendKeysForDialog="" sendKeysForAButton="">
+      <notes></notes>
+      <filters>
+        <filter>0</filter>
+      </filters>
+    </app>
+    <app name="IEYTD" imgFilename="gameImages\IEYTD.png" fullFilePath="D:\Program Files\OculusGames\0.7\ExpectYouToDie\Game\IEYTD.exe" paramsCustom="" sendKeysForDialog="" sendKeysForAButton="">
+      <notes></notes>
+      <filters>
+        <filter>0</filter>
+      </filters>
+    </app>
+    <app name="Henry" imgFilename="gameImages\Henry.png" fullFilePath="D:\Program Files\OculusGames\0.7\HenryTrailer_20150921\Henry.exe" paramsCustom="" sendKeysForDialog="" sendKeysForAButton="">
+      <notes></notes>
+      <filters>
+        <filter>0</filter>
+      </filters>
+    </app>
+  </apps>
+  <filterCategories>
+    <filterCategory name="Demo" id="0" />
+  </filterCategories>
+</VRKiosk_Config>

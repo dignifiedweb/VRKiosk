@@ -1,0 +1,8 @@
+D:\Projects\Programming\OculusGameLauncher\OculusGameLauncher\OculusGameLauncherCLI\bin\Debug\OculusGameLauncherCLI.exe.config
+D:\Projects\Programming\OculusGameLauncher\OculusGameLauncher\OculusGameLauncherCLI\bin\Debug\OculusGameLauncherCLI.exe
+D:\Projects\Programming\OculusGameLauncher\OculusGameLauncher\OculusGameLauncherCLI\bin\Debug\OculusGameLauncherCLI.pdb
+D:\Projects\Programming\OculusGameLauncher\OculusGameLauncher\OculusGameLauncherCLI\bin\Debug\XInputDotNetPure.dll
+D:\Projects\Programming\OculusGameLauncher\OculusGameLauncher\OculusGameLauncherCLI\bin\Debug\XInputDotNetPure.pdb
+D:\Projects\Programming\OculusGameLauncher\OculusGameLauncher\OculusGameLauncherCLI\obj\Debug\OculusGameLauncherCLI.exe
+D:\Projects\Programming\OculusGameLauncher\OculusGameLauncher\OculusGameLauncherCLI\obj\Debug\OculusGameLauncherCLI.pdb
+D:\Projects\Programming\OculusGameLauncher\OculusGameLauncher\OculusGameLauncherCLI\obj\Debug\OculusGameLauncherCLI.csprojResolveAssemblyReference.cache

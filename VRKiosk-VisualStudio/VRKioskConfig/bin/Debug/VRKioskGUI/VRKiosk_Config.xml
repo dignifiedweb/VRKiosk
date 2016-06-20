@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VRKiosk_Config>
+  <apps>
+    <app name="I expect you to die" imgFilename="gameImages\I expect you to die.png" fullFilePath="D:\Program Files\OculusGames\1.3\ExpectYouToDie\Game\IEYTD.exe" paramsCustom="" sendKeysForDialog="" sendKeysForAButton="" appDateTimeAdded="2016-05-26T22:08:49.7910613-05:00">
+      <notes></notes>
+      <filters>
+        <filter>2</filter>
+      </filters>
+    </app>
+    <app name="BatTouch" imgFilename="gameImages\BatTouch.png" fullFilePath="D:\Program Files\OculusGames\1.3\LeapOlderWorkingDemos\BatTouch\BatTouch.exe" paramsCustom="" sendKeysForDialog="" sendKeysForAButton="" appDateTimeAdded="2016-05-26T22:09:08.1848183-05:00">
+      <notes></notes>
+      <filters>
+        <filter>2</filter>
+      </filters>
+    </app>
+    <app name="ManOverboard" imgFilename="gameImages\ManOverboard.png" fullFilePath="D:\Program Files\OculusGames\1.3\ManOverboard-DK2-0.8\ManOverboard.exe" paramsCustom="" sendKeysForDialog="" sendKeysForAButton="" appDateTimeAdded="2016-05-26T22:09:19.2590806-05:00">
+      <notes></notes>
+      <filters>
+        <filter>2</filter>
+      </filters>
+    </app>
+    <app name="Affected v1.62" imgFilename="gameImages\Affected v1.62.png" fullFilePath="D:\Program Files\OculusGames\1.3\Affected v1.62\Affected v1.62.exe" paramsCustom="" sendKeysForDialog="" sendKeysForAButton="" appDateTimeAdded="2016-05-26T22:10:36.5816933-05:00">
+      <notes></notes>
+      <filters>
+        <filter>2</filter>
+      </filters>
+    </app>
+    <app name="BoursinSensorium2" imgFilename="gameImages\BoursinSensorium2.png" fullFilePath="D:\Program Files\OculusGames\1.3\Boursin_Sensorium_Virtual_Reality_Experience-pc\BoursinSensorium2\WindowsNoEditor\BoursinSensorium2.exe" paramsCustom="" sendKeysForDialog="" sendKeysForAButton="" appDateTimeAdded="2016-05-26T22:21:25.7900909-05:00">
+      <notes></notes>
+      <filters>
+        <filter>2</filter>
+      </filters>
+    </app>
+  </apps>
+  <filterCategories>
+    <filterCategory name="Test Jon 2" id="2" />
+    <filterCategory name="Test 5" id="3" />
+  </filterCategories>
+</VRKiosk_Config>

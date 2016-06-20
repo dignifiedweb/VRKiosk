@@ -1,0 +1,7 @@
+D:\Projects\Programming\VRKiosk\VRKiosk-VisualStudio\VRKioskCLI\bin\Release\VRKioskCLI.exe.config
+D:\Projects\Programming\VRKiosk\VRKiosk-VisualStudio\VRKioskCLI\bin\Release\VRKioskCLI.exe
+D:\Projects\Programming\VRKiosk\VRKiosk-VisualStudio\VRKioskCLI\bin\Release\VRKioskCLI.pdb
+D:\Projects\Programming\VRKiosk\VRKiosk-VisualStudio\VRKioskCLI\bin\Release\XInputDotNetPure.dll
+D:\Projects\Programming\VRKiosk\VRKiosk-VisualStudio\VRKioskCLI\obj\Release\VRKioskCLI.exe
+D:\Projects\Programming\VRKiosk\VRKiosk-VisualStudio\VRKioskCLI\obj\Release\VRKioskCLI.pdb
+D:\Projects\Programming\VRKiosk\VRKiosk-VisualStudio\VRKioskCLI\obj\Release\VRKioskCLI.csprojResolveAssemblyReference.cache
